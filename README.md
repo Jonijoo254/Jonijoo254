@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Biostatistics 
 - 💞️ I’m looking to collaborate on project management 
 - 📫 How to reach me is through mungaijohn480@gmail.com 
-- 😄 Pronouns: ...
+- 😄 Pronouns: He
 - ⚡ Fun fact: Data capture, collection and analysis
 
 <!---
